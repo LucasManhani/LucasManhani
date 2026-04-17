@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=LucasManhani&theme=react-dark&hide_border=false)
+![Snake](https://raw.githubusercontent.com/LucasManhani/LucasManhani/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
