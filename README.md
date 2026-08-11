@@ -11,10 +11,10 @@
 <table width="100%" align="center">
 <tr>
 <td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LucasManhani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=250"/>
+<img src="https://raw.githubusercontent.com/LucasManhani/LucasManhani/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
 </td>
 <td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasManhani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=250"/>
+<img src="https://raw.githubusercontent.com/LucasManhani/LucasManhani/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
 </td>
 <td width="33%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasManhani&theme=tokyonight&hide_border=false&card_width=250"/>
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 </div>
 
